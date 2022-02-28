@@ -15,8 +15,8 @@ current_time = now.strftime("%H:%M:%S")
 f = open("scoreboard.txt", "w+")
 x = open("rawscores.txt", "r")
 
-f.write("Scores as of: {} AM\n".format(current_time))
-#f.write("---FINAL SCOREBOARD FOR QUIZ SHOW ELEM ELIMS---\n")
+#f.write("Scores as of: {}\n".format(current_time))
+f.write("---FINAL SCOREBOARD FOR QUIZ SHOW HS ELIMS---\n")
 f.write("Rank       School      Score    \n")
 f.write("---------------------------------\n")
 
@@ -45,6 +45,8 @@ for k,v in sorted_scores.items():
   f.write("  ")
   f.write("        {}".format(v))
   f.write("\n")
+  if(ctr==10):
+    f.write("----------------------------------\n")
   ctr+=1
 
 f.write("\n\n")

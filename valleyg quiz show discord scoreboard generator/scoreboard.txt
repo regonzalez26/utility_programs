@@ -1,20 +1,21 @@
-Scores as of: 11:38:20 AM
+---FINAL SCOREBOARD FOR QUIZ SHOW HS ELIMS---
 Rank       School      Score    
 ---------------------------------
-   1          SMUJHS            0
-   1          CCNHS              0
-   1          TUGSCI             0
-   1          ULSIHS              0
-   1          SMHS                0
-   1          CFS                     0
-   1          BNHS                 0
-   1          TCWHS             0
-   1          OLPCC               0
-   1          LA                       0
-   1          CNHS                 0
-   1          DAHS                 0
-   1          IJMS                   0
-   1          SIA                      0
-   1          PSHSCVC          0
+   1          BNHS                 70
+   2          PSHSCVC          67
+   3          TUGSCI             66
+   3          OLPCC               66
+   4          LA                       63
+   5          CNHS                 62
+   6          CCNHS              59
+   6          SMHS                59
+   7          SMUJHS            58
+   7          ULSIHS              58
+----------------------------------
+   8          SIA                      57
+   9          DAHS                 47
+   10        TCWHS             45
+   11        IJMS                   44
+   12        CFS                     41
 
 
